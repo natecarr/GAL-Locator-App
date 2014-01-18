@@ -1,0 +1,3 @@
+dependencies: \
+  /Users/r8yq7/Documents/git/GAL\ Locator\ App/build/iphone/Classes/ApplicationMods.m \
+  /Users/r8yq7/Documents/git/GAL\ Locator\ App/build/iphone/Classes/ApplicationMods.h

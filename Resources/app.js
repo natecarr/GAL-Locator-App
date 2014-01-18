@@ -54,7 +54,7 @@ win2.add(label2);
 
 
 //
-//  add tabs
+//  add tabGroup
 //
 tabGroup.addTab(tab1);  
 tabGroup.addTab(tab2);  
